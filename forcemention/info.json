@@ -8,7 +8,8 @@
     0
   ],
   "description": "Mentions roles that are unmentionable",
-  "hidden": false,
+  "disabled": true,
+  "hidden": true,
   "install_msg": "Thank you for installing ForceMention! Get started with `[p]load forcemention`, then `[p]forcemention`",
   "short": "Mention unmentionables",
   "tags": [

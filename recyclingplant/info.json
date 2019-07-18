@@ -9,7 +9,8 @@
     0
   ],
   "description": "Apply for a job at the recycling plant! Sort out the garbage!",
-  "hidden": false,
+  "disabled": true,
+  "hidden": true,
   "install_msg": "Thank you for installing RecyclingPlant. Start recycling today with `[p]load recyclingplant`, then `[p]recyclingplant`",
   "short": "Apply for a job at the recycling plant!",
   "tags": [

@@ -9,7 +9,8 @@
     0
   ],
   "description": "Calculate the love percentage for two users",
-  "hidden": false,
+  "disabled": true,
+  "hidden": true,
   "install_msg": "Thank you for installing LoveCalculator. Love is in the air.\n Get started with `[p]load lovecalculator`, then `[p]help LoveCalculator`",
   "requirements": [
     "beautifulsoup4"

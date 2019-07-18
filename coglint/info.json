@@ -8,6 +8,7 @@
     0
   ],
   "description": "Lint python code posted in chat",
+  "disabled": true,
   "hidden": true,
   "install_msg": "Thank you for installing CogLint! Get started with `[p]load coglint` and `[p]help CogLint`",
   "requirements": ["pylint"],

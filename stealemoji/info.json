@@ -8,6 +8,7 @@
     0
   ],
   "description": "Steals custom emojis the bot sees and moves them to an emoji server",
+  "disabled": true,
   "hidden": true,
   "install_msg": "Thank you for installing StealEmoji",
   "requirements": [],
