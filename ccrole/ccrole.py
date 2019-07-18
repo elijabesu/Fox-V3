@@ -236,6 +236,7 @@ class CCRole(Cog):
                 await ctx.author.send(box(page))
             await ctx.send("Command list DM'd")
 
+    @commands.Cog.listener()
     async def on_message(self, message):
         if len(message.content) < 2 or message.guild is None:
             return
